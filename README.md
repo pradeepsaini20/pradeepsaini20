@@ -64,7 +64,6 @@ A web-based project focused on analyzing and managing reel-related data.
 
 ## 🎯 Goals for 2026
 
-- Solve 300+ DSA Problems
 - Build strong real-world projects
 - Improve Full Stack Development skills
 - Prepare for Software Development roles
